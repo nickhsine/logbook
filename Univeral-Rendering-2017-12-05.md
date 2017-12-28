@@ -1,8 +1,10 @@
-# What is Isomorphic JavaScript(Server side rendering)?
-Isomorphic JavaScript apps are JavaScript applications that can run both client-side and server-side.
+# What is Isomorphic/Universal JavaScript(Server side rendering)?
+Isomorphic/Universal JavaScript apps are JavaScript applications that can run both client-side and server-side.
 
 The backend and frontend share the same code.
 
+# Universal Rendering Project
+Our project to try universal rendering. [twreporter-react](https://github.com/twreporter/twreporter-react/)
 
 # How to do server side rendering?
 1. [next.js](https://github.com/zeit/next.js/)
